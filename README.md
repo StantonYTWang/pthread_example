@@ -15,5 +15,5 @@
   - shm_unlink()
   
 - HOW TO RUN THE EXAMPLE
-  - `$ make all`
-  - `$ make run`
+  - `$ make all` to compile
+  - `$ make run` to run example program
