@@ -14,3 +14,6 @@
   - munmap
   - shm_unlink()
   
+- HOW TO RUN THE EXAMPLE
+  - `$ make all`
+  - `$ make run`
